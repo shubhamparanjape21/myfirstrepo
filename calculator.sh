@@ -7,5 +7,8 @@ add=$(($num1+$num2))
 
 sub=$(($num1-$num2))
 
+mul=$(($num1*$num2))
+
 echo "The addition of two numbers is: $add"
 echo "The subtraction of two numbers is: $sub"
+echo "The multiplication of two numbers is: $mul"
